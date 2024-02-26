@@ -1,4 +1,5 @@
 # Modified DoubleT front Idlers for the 2.4
+### Disclaimer: This is a Beta project and it may have issues that have yet to be discoverd
 
 ![Exploded](images/Exploded_View.png)
 
