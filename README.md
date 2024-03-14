@@ -1,5 +1,7 @@
-# A place to share the mods ive made for various printers i own.
+# A place to share the mods ive made for various printers i own:
 
-- ## [Micron](https://github.com/AndyABG/3D-Printer-Mods/tree/main/Printers%20for%20Ants/Micron)
-- ## [Voron 2.4](https://github.com/AndyABG/3D-Printer-Mods/tree/main/Voron/v2.4)
-- ## [VzBot Vz235](https://github.com/AndyABG/3D-Printer-Mods/tree/main/VzBot/VZ235)
+- ## [Micron](/Printers%20for%20Ants/Micron)
+- ## [Voron 2.4](/Voron/v2.4)
+- ## [VzBot Vz235](/VzBot/VZ235)
+- ## [Universal Mods: 2020](/Universal%20Mods/2020)
+    Universal mods for printers using 2020 extrusions
