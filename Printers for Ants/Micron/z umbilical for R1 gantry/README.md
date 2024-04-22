@@ -1,5 +1,5 @@
 # A z-umbilical Mod for the Micron R1
-![CAD Rendering](images/Main.png)
+![CAD Rendering](Images/Main.png)
 
 ## What to Print?
 1) First select the Frame you have.
